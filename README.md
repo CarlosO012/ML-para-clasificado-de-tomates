@@ -31,5 +31,5 @@ El sistema consta de varias etapas:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/sistema-clasificacion-tomates.git
+   git clone https://github.com/CarlosO012/ML-para-clasificado-de-tomates.git
 
